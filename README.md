@@ -1,4 +1,3 @@
-# llm-ethics
 # On the Insufficiency of Behavioural Proxies for Moral Competence in LLMs
 
 **A critical analysis of Haas et al. (Nature 2026)**
