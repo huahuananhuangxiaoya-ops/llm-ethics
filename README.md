@@ -12,6 +12,12 @@
 This project critically examines the evaluation framework proposed by Haas et al. (2026),
 a *Perspective* article in *Nature* that identifies three challenges in assessing LLM moral
 competence and proposes corresponding behavioural evaluation strategies.
+The backend implementation in this repository represents an 
+attempt to empirically instantiate these probes. However, the 
+process of designing the experiments itself revealed a deeper 
+problem: any behavioural test capable of detecting the absence 
+of moral competence faces the same underdetermination problem 
+that afflicts Haas et al.'s framework.
 
 The central argument of this project is:
 
